@@ -53,3 +53,4 @@
 - [Oracle Java Certification](https://academy.oracle.com/en/resources-oracle-certifications.html)
 - [Exam topics](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)
 - [Java OCP 11 Developer Complete Study Guide](https://www.selikoff.net/ocp11-complete/)
+- [Pluralsight exam preparation](https://www.pluralsight.com/paths/java-se-11-developer-certification-1z0-819)
